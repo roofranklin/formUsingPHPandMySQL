@@ -1,0 +1,1 @@
+[31-Jul-2012 01:27:05] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'spirit_lupo'@'localhost' (using password: YES) in /home/spirit/public_html/jobs/lupo/cadastro.php on line 24
